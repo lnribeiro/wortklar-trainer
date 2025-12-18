@@ -1,0 +1,317 @@
+[
+  {
+    "id": "noun-0001",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Termin" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Termine",
+      "examples": [{ "de": "Ich habe morgen einen Termin." }]
+    }
+  },
+  {
+    "id": "noun-0002",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Wetter" },
+    "reveal": {
+      "articleNom": "das",
+      "plural": "—",
+      "examples": [{ "de": "Das Wetter ist heute sonnig." }]
+    }
+  },
+  {
+    "id": "noun-0003",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Einladung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Einladungen",
+      "examples": [{ "de": "Vielen Dank für die Einladung!" }]
+    }
+  },
+  {
+    "id": "noun-0004",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Veranstaltung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Veranstaltungen",
+      "examples": [{ "de": "Die Veranstaltung beginnt um acht Uhr." }]
+    }
+  },
+  {
+    "id": "noun-0005",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Frage" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Fragen",
+      "examples": [{ "de": "Ich habe eine Frage an dich." }]
+    }
+  },
+  {
+    "id": "noun-0006",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Antwort" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Antworten",
+      "examples": [{ "de": "Die Antwort war überraschend." }]
+    }
+  },
+  {
+    "id": "noun-0007",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Vereinbarung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Vereinbarungen",
+      "examples": [{ "de": "Wir haben eine schriftliche Vereinbarung getroffen." }]
+    }
+  },
+  {
+    "id": "noun-0008",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Geduld" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "—",
+      "examples": [{ "de": "Danke für deine Geduld." }]
+    }
+  },
+  {
+    "id": "noun-0009",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Kaffee" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Kaffees",
+      "examples": [{ "de": "Möchtest du einen Kaffee?" }]
+    }
+  },
+  {
+    "id": "noun-0010",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Ausflug" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Ausflüge",
+      "examples": [{ "de": "Am Wochenende machen wir einen Ausflug." }]
+    }
+  },
+  {
+    "id": "noun-0011",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Erkenntnis" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Erkenntnisse",
+      "examples": [{ "de": "Die Studie brachte neue Erkenntnisse." }]
+    }
+  },
+  {
+    "id": "noun-0012",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Stadt" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Städte",
+      "examples": [{ "de": "Berlin ist eine große Stadt." }]
+    }
+  },
+  {
+    "id": "noun-0013",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Entscheidung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Entscheidungen",
+      "examples": [{ "de": "Die Entscheidung fiel schwer." }]
+    }
+  },
+  {
+    "id": "noun-0014",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Begegnung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Begegnungen",
+      "examples": [{ "de": "Die Begegnung war zufällig." }]
+    }
+  },
+  {
+    "id": "noun-0015",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Freude" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Freuden",
+      "examples": [{ "de": "Er spürte große Freude." }]
+    }
+  },
+  {
+    "id": "vp-0001",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "warten ___" },
+    "reveal": {
+      "pattern": "warten auf + Akk.",
+      "examples": [{ "de": "Ich warte auf den Bus." }]
+    }
+  },
+  {
+    "id": "vp-0002",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sich freuen ___ (Zukunft)" },
+    "reveal": {
+      "pattern": "sich freuen auf + Akk.",
+      "examples": [{ "de": "Ich freue mich auf das Konzert." }]
+    }
+  },
+  {
+    "id": "vp-0003",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "abhängen ___" },
+    "reveal": {
+      "pattern": "abhängen von + Dat.",
+      "examples": [{ "de": "Es hängt vom Wetter ab." }]
+    }
+  },
+  {
+    "id": "vp-0004",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich interessieren ___" },
+    "reveal": {
+      "pattern": "sich interessieren für + Akk.",
+      "examples": [{ "de": "Ich interessiere mich für Kunst." }]
+    }
+  },
+  {
+    "id": "vp-0005",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "bestehen ___ (Inhalt)" },
+    "reveal": {
+      "pattern": "bestehen aus + Dat.",
+      "examples": [{ "de": "Das Team besteht aus fünf Personen." }]
+    }
+  },
+  {
+    "id": "vp-0006",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich beziehen ___" },
+    "reveal": {
+      "pattern": "sich beziehen auf + Akk.",
+      "examples": [{ "de": "Ich beziehe mich auf Ihre E-Mail." }]
+    }
+  },
+  {
+    "id": "vp-0007",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "denken ___" },
+    "reveal": {
+      "pattern": "denken an + Akk.",
+      "examples": [{ "de": "Ich denke an dich." }]
+    }
+  },
+  {
+    "id": "vp-0008",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich kümmern ___" },
+    "reveal": {
+      "pattern": "sich kümmern um + Akk.",
+      "examples": [{ "de": "Sie kümmert sich um die Pflanzen." }]
+    }
+  },
+  {
+    "id": "vp-0009",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "teilnehmen ___" },
+    "reveal": {
+      "pattern": "teilnehmen an + Dat.",
+      "examples": [{ "de": "Er nimmt an dem Kurs teil." }]
+    }
+  },
+  {
+    "id": "vp-0010",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich erinnern ___" },
+    "reveal": {
+      "pattern": "sich erinnern an + Akk.",
+      "examples": [{ "de": "Kannst du dich an gestern erinnern?" }]
+    }
+  },
+  {
+    "id": "vp-0011",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich verlassen ___" },
+    "reveal": {
+      "pattern": "sich verlassen auf + Akk.",
+      "examples": [{ "de": "Ich kann mich auf ihn verlassen." }]
+    }
+  },
+  {
+    "id": "vp-0012",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sich bedanken ___" },
+    "reveal": {
+      "pattern": "sich bedanken bei + Dat.",
+      "examples": [{ "de": "Ich bedanke mich bei dir." }]
+    }
+  },
+  {
+    "id": "vp-0013",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich bewerben ___" },
+    "reveal": {
+      "pattern": "sich bewerben um + Akk.",
+      "examples": [{ "de": "Er bewirbt sich um die Stelle." }]
+    }
+  },
+  {
+    "id": "vp-0014",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "warnen ___" },
+    "reveal": {
+      "pattern": "warnen vor + Dat.",
+      "examples": [{ "de": "Die Polizei warnt vor Betrügern." }]
+    }
+  },
+  {
+    "id": "vp-0015",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich beschäftigen ___" },
+    "reveal": {
+      "pattern": "sich beschäftigen mit + Dat.",
+      "examples": [{ "de": "Sie beschäftigt sich mit Philosophie." }]
+    }
+  }
+]
