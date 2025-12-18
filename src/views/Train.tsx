@@ -134,10 +134,10 @@ export function Train({ cards, selectedLevels, selectedTypes, sessionSize, onExi
         ) : (
           <div className="cta-row">
             <button className="big-action green" onClick={() => handleAnswer('green')}>
-              ✅ I got it!
+              I got it
             </button>
             <button className="big-action red" onClick={() => handleAnswer('red')}>
-              ❌ I did not remember it :(
+              I did not remember it
             </button>
           </div>
         )}
