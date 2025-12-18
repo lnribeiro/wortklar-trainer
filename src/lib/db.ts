@@ -66,11 +66,11 @@ export async function bulkGetProgress(cardIds: string[]): Promise<ProgressMap> {
     }, {});
   }
   try {
-    const entries = await Promise.all(
+    const entries: Array<[string, ProgressRecord | undefined]> = await Promise.all(
       cardIds.map(async (id) => [id, (await db.get(STORE_NAME, id)) as ProgressRecord | undefined])
     );
     return entries.reduce<ProgressMap>((acc, [id, val]) => {
-      if (val) acc[id as string] = val;
+      if (val) acc[id] = val;
       return acc;
     }, {});
   } catch {
