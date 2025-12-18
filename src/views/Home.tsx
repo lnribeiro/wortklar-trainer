@@ -113,7 +113,7 @@ export function Home({
         <a
           className="meta"
           style={{ display: 'inline-block', marginTop: 8, color: '#2563eb', fontWeight: 600 }}
-          href="https://github.com/your-username/wortklar"
+          href="https://github.com/lnribeiro/wortklar-trainer"
           target="_blank"
           rel="noreferrer"
         >
