@@ -90,8 +90,9 @@ export function Settings({ onBack, onReset, resetInProgress, cards }: SettingsPr
     const confirmed = window.confirm('Reset all progress on this device? This cannot be undone.');
     if (confirmed) {
       await onReset();
-      setStats({ totalSeen: 0, totalGreen: 0, totalRed: 0 });
+      setStats({ totalSeen: 0, totalGreen: 0, totalRed: 0, totalReviews: 0 });
       setHardCards([]);
+      setSeenCards([]);
     }
   };
 
