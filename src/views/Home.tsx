@@ -110,6 +110,15 @@ export function Home({
         </button>
         {!canStart && <p className="meta">Select at least one type and one difficulty.</p>}
         <p className="meta">Your progress is saved in your browser on this device.</p>
+        <a
+          className="meta"
+          style={{ display: 'inline-block', marginTop: 8, color: '#2563eb', fontWeight: 600 }}
+          href="https://github.com/your-username/wortklar"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Source on GitHub
+        </a>
         <button className="link-button" onClick={onOpenSettings} style={{ paddingLeft: 0 }}>
           Go to Settings
         </button>

@@ -165,6 +165,1216 @@
     }
   },
   {
+    "id": "noun-0016",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Buch" },
+    "reveal": {
+      "articleNom": "das",
+      "plural": "Bücher",
+      "examples": [{ "de": "Ich lese ein spannendes Buch." }]
+    }
+  },
+  {
+    "id": "noun-0017",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Erfahrung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Erfahrungen",
+      "examples": [{ "de": "Sie hat viel Erfahrung im Marketing." }]
+    }
+  },
+  {
+    "id": "noun-0018",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Herausforderung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Herausforderungen",
+      "examples": [{ "de": "Das Projekt war eine große Herausforderung." }]
+    }
+  },
+  {
+    "id": "noun-0019",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Hinweis" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Hinweise",
+      "examples": [{ "de": "Danke für den Hinweis." }]
+    }
+  },
+  {
+    "id": "noun-0020",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Zimmer" },
+    "reveal": {
+      "articleNom": "das",
+      "plural": "Zimmer",
+      "examples": [{ "de": "Das Zimmer ist hell und groß." }]
+    }
+  },
+  {
+    "id": "noun-0021",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Vorbereitung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Vorbereitungen",
+      "examples": [{ "de": "Die Vorbereitung dauerte mehrere Tage." }]
+    }
+  },
+  {
+    "id": "noun-0022",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Begründung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Begründungen",
+      "examples": [{ "de": "Die Begründung war überzeugend." }]
+    }
+  },
+  {
+    "id": "noun-0023",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Zeit" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Zeiten",
+      "examples": [{ "de": "Ich habe heute keine Zeit." }]
+    }
+  },
+  {
+    "id": "noun-0024",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Beziehung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Beziehungen",
+      "examples": [{ "de": "Sie haben eine gute Beziehung." }]
+    }
+  },
+  {
+    "id": "noun-0025",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Übereinstimmung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Übereinstimmungen",
+      "examples": [{ "de": "Die Ergebnisse stehen in Übereinstimmung." }]
+    }
+  },
+  {
+    "id": "noun-0026",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Aussicht" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Aussichten",
+      "examples": [{ "de": "Die Aussicht vom Berg war beeindruckend." }]
+    }
+  },
+  {
+    "id": "noun-0027",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Beratung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Beratungen",
+      "examples": [{ "de": "Wir bieten kostenlose Beratung an." }]
+    }
+  },
+  {
+    "id": "noun-0028",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Vertrag" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Verträge",
+      "examples": [{ "de": "Der Vertrag wurde gestern unterschrieben." }]
+    }
+  },
+  {
+    "id": "noun-0029",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Sitzung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Sitzungen",
+      "examples": [{ "de": "Die Sitzung beginnt um neun Uhr." }]
+    }
+  },
+  {
+    "id": "noun-0030",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Verein" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Vereine",
+      "examples": [{ "de": "Er ist Mitglied in einem Sportverein." }]
+    }
+  },
+  {
+    "id": "noun-0031",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Hoffnung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Hoffnungen",
+      "examples": [{ "de": "Sie hat große Hoffnung auf Erfolg." }]
+    }
+  },
+  {
+    "id": "noun-0032",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Gedanke" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Gedanken",
+      "examples": [{ "de": "Der Gedanke kam ihm plötzlich." }]
+    }
+  },
+  {
+    "id": "noun-0033",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Besuch" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Besuche",
+      "examples": [{ "de": "Wir bekommen morgen Besuch." }]
+    }
+  },
+  {
+    "id": "noun-0034",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Lieferung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Lieferungen",
+      "examples": [{ "de": "Die Lieferung kam pünktlich an." }]
+    }
+  },
+  {
+    "id": "noun-0035",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Angebot" },
+    "reveal": {
+      "articleNom": "das",
+      "plural": "Angebote",
+      "examples": [{ "de": "Dieses Angebot ist zeitlich begrenzt." }]
+    }
+  },
+  {
+    "id": "noun-0036",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Nachfrage" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Nachfragen",
+      "examples": [{ "de": "Die Nachfrage nach Tickets ist hoch." }]
+    }
+  },
+  {
+    "id": "noun-0037",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Möglichkeit" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Möglichkeiten",
+      "examples": [{ "de": "Es gibt viele Möglichkeiten." }]
+    }
+  },
+  {
+    "id": "noun-0038",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Verantwortung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Verantwortungen",
+      "examples": [{ "de": "Er trägt viel Verantwortung." }]
+    }
+  },
+  {
+    "id": "noun-0039",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Unterstützung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Unterstützungen",
+      "examples": [{ "de": "Vielen Dank für die Unterstützung." }]
+    }
+  },
+  {
+    "id": "noun-0040",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Zukunft" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Zukünfte",
+      "examples": [{ "de": "Er denkt oft an die Zukunft." }]
+    }
+  },
+  {
+    "id": "noun-0041",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Vergangenheit" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Vergangenheiten",
+      "examples": [{ "de": "Sie spricht selten über die Vergangenheit." }]
+    }
+  },
+  {
+    "id": "noun-0042",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Teilnahme" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Teilnahmen",
+      "examples": [{ "de": "Die Teilnahme ist freiwillig." }]
+    }
+  },
+  {
+    "id": "noun-0043",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Absicht" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Absichten",
+      "examples": [{ "de": "Sie hatte nie die Absicht zu schaden." }]
+    }
+  },
+  {
+    "id": "noun-0044",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Einfluss" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Einflüsse",
+      "examples": [{ "de": "Das Wetter hat Einfluss auf die Stimmung." }]
+    }
+  },
+  {
+    "id": "noun-0045",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Gelegenheit" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Gelegenheiten",
+      "examples": [{ "de": "Nutze die Gelegenheit!" }]
+    }
+  },
+  {
+    "id": "noun-0046",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Erfolg" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Erfolge",
+      "examples": [{ "de": "Der Plan war ein Erfolg." }]
+    }
+  },
+  {
+    "id": "noun-0047",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Misserfolg" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Misserfolge",
+      "examples": [{ "de": "Aus Misserfolgen lernt man." }]
+    }
+  },
+  {
+    "id": "noun-0048",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Stimmung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Stimmungen",
+      "examples": [{ "de": "Die Stimmung ist gut." }]
+    }
+  },
+  {
+    "id": "noun-0049",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Prüfung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Prüfungen",
+      "examples": [{ "de": "Die Prüfung war schwer." }]
+    }
+  },
+  {
+    "id": "noun-0050",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Ergebnis" },
+    "reveal": {
+      "articleNom": "das",
+      "plural": "Ergebnisse",
+      "examples": [{ "de": "Das Ergebnis war eindeutig." }]
+    }
+  },
+  {
+    "id": "noun-0051",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Bericht" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Berichte",
+      "examples": [{ "de": "Der Bericht ist fertig." }]
+    }
+  },
+  {
+    "id": "noun-0052",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Forschung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Forschungen",
+      "examples": [{ "de": "Die Forschung dauert an." }]
+    }
+  },
+  {
+    "id": "noun-0053",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Gesundheit" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "—",
+      "examples": [{ "de": "Gesundheit ist wichtig." }]
+    }
+  },
+  {
+    "id": "noun-0054",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Krankheit" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Krankheiten",
+      "examples": [{ "de": "Die Krankheit ist selten." }]
+    }
+  },
+  {
+    "id": "noun-0055",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Sorge" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Sorgen",
+      "examples": [{ "de": "Mach dir keine Sorgen." }]
+    }
+  },
+  {
+    "id": "noun-0056",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Versuch" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Versuche",
+      "examples": [{ "de": "Der Versuch war erfolgreich." }]
+    }
+  },
+  {
+    "id": "noun-0057",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Vertrauen" },
+    "reveal": {
+      "articleNom": "das",
+      "plural": "—",
+      "examples": [{ "de": "Sie haben großes Vertrauen." }]
+    }
+  },
+  {
+    "id": "noun-0058",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Initiative" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Initiativen",
+      "examples": [{ "de": "Die Initiative kommt aus der Gruppe." }]
+    }
+  },
+  {
+    "id": "noun-0059",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Diskussion" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Diskussionen",
+      "examples": [{ "de": "Die Diskussion war lang." }]
+    }
+  },
+  {
+    "id": "noun-0060",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Empfehlung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Empfehlungen",
+      "examples": [{ "de": "Hast du eine Empfehlung?" }]
+    }
+  },
+  {
+    "id": "noun-0061",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Verbindung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Verbindungen",
+      "examples": [{ "de": "Die Verbindung ist stabil." }]
+    }
+  },
+  {
+    "id": "noun-0062",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Richtung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Richtungen",
+      "examples": [{ "de": "Welche Richtung ist richtig?" }]
+    }
+  },
+  {
+    "id": "noun-0063",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Bereich" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Bereiche",
+      "examples": [{ "de": "Dieser Bereich ist gesperrt." }]
+    }
+  },
+  {
+    "id": "noun-0064",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Vorstellung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Vorstellungen",
+      "examples": [{ "de": "Die Vorstellung war beeindruckend." }]
+    }
+  },
+  {
+    "id": "noun-0065",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Erlaubnis" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Erlaubnisse",
+      "examples": [{ "de": "Du brauchst eine Erlaubnis." }]
+    }
+  },
+  {
+    "id": "noun-0066",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Erinnerung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Erinnerungen",
+      "examples": [{ "de": "Diese Erinnerung bleibt." }]
+    }
+  },
+  {
+    "id": "noun-0067",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Voraussetzung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Voraussetzungen",
+      "examples": [{ "de": "Er erfüllt alle Voraussetzungen." }]
+    }
+  },
+  {
+    "id": "noun-0068",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Entdeckung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Entdeckungen",
+      "examples": [{ "de": "Die Entdeckung war zufällig." }]
+    }
+  },
+  {
+    "id": "noun-0069",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Fähigkeit" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Fähigkeiten",
+      "examples": [{ "de": "Sie hat viele Fähigkeiten." }]
+    }
+  },
+  {
+    "id": "noun-0070",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Auswahl" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Auswahlen",
+      "examples": [{ "de": "Die Auswahl ist groß." }]
+    }
+  },
+  {
+    "id": "noun-0071",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Verspätung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Verspätungen",
+      "examples": [{ "de": "Entschuldigung für die Verspätung." }]
+    }
+  },
+  {
+    "id": "noun-0072",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Rücksicht" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Rücksichten",
+      "examples": [{ "de": "Nimm Rücksicht auf andere." }]
+    }
+  },
+  {
+    "id": "noun-0073",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Rückmeldung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Rückmeldungen",
+      "examples": [{ "de": "Danke für die schnelle Rückmeldung." }]
+    }
+  },
+  {
+    "id": "noun-0074",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Bewertung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Bewertungen",
+      "examples": [{ "de": "Die Bewertung war positiv." }]
+    }
+  },
+  {
+    "id": "noun-0075",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Genehmigung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Genehmigungen",
+      "examples": [{ "de": "Wir warten auf die Genehmigung." }]
+    }
+  },
+  {
+    "id": "noun-0076",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Reaktion" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Reaktionen",
+      "examples": [{ "de": "Die Reaktion kam sofort." }]
+    }
+  },
+  {
+    "id": "noun-0077",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Anspruch" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Ansprüche",
+      "examples": [{ "de": "Er hat hohen Anspruch an sich." }]
+    }
+  },
+  {
+    "id": "noun-0078",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Ausnahme" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Ausnahmen",
+      "examples": [{ "de": "Das ist eine Ausnahme." }]
+    }
+  },
+  {
+    "id": "noun-0079",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Besprechung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Besprechungen",
+      "examples": [{ "de": "Die Besprechung dauert eine Stunde." }]
+    }
+  },
+  {
+    "id": "noun-0080",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Leitung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Leitungen",
+      "examples": [{ "de": "Die Leitung hat gewechselt." }]
+    }
+  },
+  {
+    "id": "noun-0081",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Beweis" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Beweise",
+      "examples": [{ "de": "Der Beweis ist eindeutig." }]
+    }
+  },
+  {
+    "id": "noun-0082",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Veränderung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Veränderungen",
+      "examples": [{ "de": "Die Veränderung fiel auf." }]
+    }
+  },
+  {
+    "id": "noun-0083",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Gleichgewicht" },
+    "reveal": {
+      "articleNom": "das",
+      "plural": "Gleichgewichte",
+      "examples": [{ "de": "Er verlor das Gleichgewicht." }]
+    }
+  },
+  {
+    "id": "noun-0084",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Bewegung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Bewegungen",
+      "examples": [{ "de": "Bewegung tut gut." }]
+    }
+  },
+  {
+    "id": "noun-0085",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Überraschung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Überraschungen",
+      "examples": [{ "de": "Die Party war eine Überraschung." }]
+    }
+  },
+  {
+    "id": "noun-0086",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Warnung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Warnungen",
+      "examples": [{ "de": "Die Warnung kam rechtzeitig." }]
+    }
+  },
+  {
+    "id": "noun-0087",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Gewohnheit" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Gewohnheiten",
+      "examples": [{ "de": "Das ist nur eine Gewohnheit." }]
+    }
+  },
+  {
+    "id": "noun-0088",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Beteiligung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Beteiligungen",
+      "examples": [{ "de": "Die Beteiligung war hoch." }]
+    }
+  },
+  {
+    "id": "noun-0089",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Ziel" },
+    "reveal": {
+      "articleNom": "das",
+      "plural": "Ziele",
+      "examples": [{ "de": "Das Ziel ist klar." }]
+    }
+  },
+  {
+    "id": "noun-0090",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Schritt" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Schritte",
+      "examples": [{ "de": "Der erste Schritt ist getan." }]
+    }
+  },
+  {
+    "id": "noun-0091",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Planung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Planungen",
+      "examples": [{ "de": "Die Planung läuft." }]
+    }
+  },
+  {
+    "id": "noun-0092",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Struktur" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Strukturen",
+      "examples": [{ "de": "Die Struktur ist klar." }]
+    }
+  },
+  {
+    "id": "noun-0093",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Aufgabe" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Aufgaben",
+      "examples": [{ "de": "Diese Aufgabe ist einfach." }]
+    }
+  },
+  {
+    "id": "noun-0094",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Vorschlag" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Vorschläge",
+      "examples": [{ "de": "Danke für deinen Vorschlag." }]
+    }
+  },
+  {
+    "id": "noun-0095",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Ausdruck" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Ausdrücke",
+      "examples": [{ "de": "Das ist ein schöner Ausdruck." }]
+    }
+  },
+  {
+    "id": "noun-0096",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Frist" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Fristen",
+      "examples": [{ "de": "Die Frist endet morgen." }]
+    }
+  },
+  {
+    "id": "noun-0097",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Bedarf" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Bedarfe",
+      "examples": [{ "de": "Der Bedarf ist gestiegen." }]
+    }
+  },
+  {
+    "id": "noun-0098",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Umsatz" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Umsätze",
+      "examples": [{ "de": "Der Umsatz wächst." }]
+    }
+  },
+  {
+    "id": "noun-0099",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Gewinn" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Gewinne",
+      "examples": [{ "de": "Der Gewinn war hoch." }]
+    }
+  },
+  {
+    "id": "noun-0100",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Verlust" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Verluste",
+      "examples": [{ "de": "Der Verlust schmerzt." }]
+    }
+  },
+  {
+    "id": "noun-0101",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Rechnung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Rechnungen",
+      "examples": [{ "de": "Die Rechnung ist fällig." }]
+    }
+  },
+  {
+    "id": "noun-0102",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Schlussfolgerung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Schlussfolgerungen",
+      "examples": [{ "de": "Die Schlussfolgerung ist logisch." }]
+    }
+  },
+  {
+    "id": "noun-0103",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Perspektive" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Perspektiven",
+      "examples": [{ "de": "Die Perspektive ist positiv." }]
+    }
+  },
+  {
+    "id": "noun-0104",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Budget" },
+    "reveal": {
+      "articleNom": "das",
+      "plural": "Budgets",
+      "examples": [{ "de": "Das Budget ist knapp." }]
+    }
+  },
+  {
+    "id": "noun-0105",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Abstimmung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Abstimmungen",
+      "examples": [{ "de": "Die Abstimmung ist morgen." }]
+    }
+  },
+  {
+    "id": "noun-0106",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Einsicht" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Einsichten",
+      "examples": [{ "de": "Er zeigte Einsicht." }]
+    }
+  },
+  {
+    "id": "noun-0107",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Maßnahme" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Maßnahmen",
+      "examples": [{ "de": "Die Maßnahme wirkt." }]
+    }
+  },
+  {
+    "id": "noun-0108",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Vorgang" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Vorgänge",
+      "examples": [{ "de": "Der Vorgang ist komplex." }]
+    }
+  },
+  {
+    "id": "noun-0109",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Zugang" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Zugänge",
+      "examples": [{ "de": "Der Zugang ist gesperrt." }]
+    }
+  },
+  {
+    "id": "noun-0110",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Anpassung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Anpassungen",
+      "examples": [{ "de": "Die Anpassung war nötig." }]
+    }
+  },
+  {
+    "id": "noun-0111",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Teilzeit" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Teilzeiten",
+      "examples": [{ "de": "Er arbeitet in Teilzeit." }]
+    }
+  },
+  {
+    "id": "noun-0112",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Vollzeit" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Vollzeiten",
+      "examples": [{ "de": "Sie wechselt in Vollzeit." }]
+    }
+  },
+  {
+    "id": "noun-0113",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Anmeldung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Anmeldungen",
+      "examples": [{ "de": "Die Anmeldung ist offen." }]
+    }
+  },
+  {
+    "id": "noun-0114",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Abmeldung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Abmeldungen",
+      "examples": [{ "de": "Die Abmeldung war spät." }]
+    }
+  },
+  {
+    "id": "noun-0115",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Sicherheit" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Sicherheiten",
+      "examples": [{ "de": "Sicherheit geht vor." }]
+    }
+  },
+  {
+    "id": "noun-0116",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Gefahr" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Gefahren",
+      "examples": [{ "de": "Die Gefahr ist groß." }]
+    }
+  },
+  {
+    "id": "noun-0117",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Rettung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Rettungen",
+      "examples": [{ "de": "Die Rettung kam schnell." }]
+    }
+  },
+  {
+    "id": "noun-0118",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Analyse" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Analysen",
+      "examples": [{ "de": "Die Analyse zeigt Trends." }]
+    }
+  },
+  {
+    "id": "noun-0119",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Prognose" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Prognosen",
+      "examples": [{ "de": "Die Prognose ist positiv." }]
+    }
+  },
+  {
+    "id": "noun-0120",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Tendenz" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Tendenzen",
+      "examples": [{ "de": "Die Tendenz ist klar erkennbar." }]
+    }
+  },
+  {
+    "id": "noun-0121",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Variante" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Varianten",
+      "examples": [{ "de": "Wir prüfen mehrere Varianten." }]
+    }
+  },
+  {
+    "id": "noun-0122",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Verlauf" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Verläufe",
+      "examples": [{ "de": "Der Verlauf war mild." }]
+    }
+  },
+  {
+    "id": "noun-0123",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Eintritt" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Eintritte",
+      "examples": [{ "de": "Der Eintritt ist frei." }]
+    }
+  },
+  {
+    "id": "noun-0124",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Ausgang" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Ausgänge",
+      "examples": [{ "de": "Der Ausgang ist hinten." }]
+    }
+  },
+  {
+    "id": "noun-0125",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Zugriff" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Zugriffe",
+      "examples": [{ "de": "Der Zugriff wurde verweigert." }]
+    }
+  },
+  {
     "id": "vp-0001",
     "type": "verb_prep",
     "level": "easy",
@@ -312,6 +1522,2156 @@
     "reveal": {
       "pattern": "sich beschäftigen mit + Dat.",
       "examples": [{ "de": "Sie beschäftigt sich mit Philosophie." }]
+    }
+  },
+  {
+    "id": "vp-0016",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sprechen ___ (Thema)" },
+    "reveal": {
+      "pattern": "sprechen über + Akk.",
+      "examples": [{ "de": "Wir sprechen über das Wochenende." }]
+    }
+  },
+  {
+    "id": "vp-0017",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich entscheiden ___" },
+    "reveal": {
+      "pattern": "sich entscheiden für + Akk.",
+      "examples": [{ "de": "Er hat sich für den Job entschieden." }]
+    }
+  },
+  {
+    "id": "vp-0018",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "zweifeln ___" },
+    "reveal": {
+      "pattern": "zweifeln an + Dat.",
+      "examples": [{ "de": "Ich zweifle an seiner Ehrlichkeit." }]
+    }
+  },
+  {
+    "id": "vp-0019",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich erkundigen ___ (Person)" },
+    "reveal": {
+      "pattern": "sich erkundigen bei + Dat.",
+      "examples": [{ "de": "Erkundige dich bei der Rezeption." }]
+    }
+  },
+  {
+    "id": "vp-0020",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich erkundigen ___ (Thema)" },
+    "reveal": {
+      "pattern": "sich erkundigen nach + Dat.",
+      "examples": [{ "de": "Sie erkundigt sich nach dem Fahrplan." }]
+    }
+  },
+  {
+    "id": "vp-0021",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sich entschuldigen ___ (Person)" },
+    "reveal": {
+      "pattern": "sich entschuldigen bei + Dat.",
+      "examples": [{ "de": "Ich entschuldige mich bei dir." }]
+    }
+  },
+  {
+    "id": "vp-0022",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sich entschuldigen ___ (Grund)" },
+    "reveal": {
+      "pattern": "sich entschuldigen für + Akk.",
+      "examples": [{ "de": "Er entschuldigt sich für die Verspätung." }]
+    }
+  },
+  {
+    "id": "vp-0023",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich sehnen ___" },
+    "reveal": {
+      "pattern": "sich sehnen nach + Dat.",
+      "examples": [{ "de": "Sie sehnt sich nach Ruhe." }]
+    }
+  },
+  {
+    "id": "vp-0024",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich wundern ___" },
+    "reveal": {
+      "pattern": "sich wundern über + Akk.",
+      "examples": [{ "de": "Ich wundere mich über seine Entscheidung." }]
+    }
+  },
+  {
+    "id": "vp-0025",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "schützen ___" },
+    "reveal": {
+      "pattern": "schützen vor + Dat.",
+      "examples": [{ "de": "Der Mantel schützt vor Kälte." }]
+    }
+  },
+  {
+    "id": "vp-0026",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "achten ___" },
+    "reveal": {
+      "pattern": "achten auf + Akk.",
+      "examples": [{ "de": "Achte auf den Verkehr." }]
+    }
+  },
+  {
+    "id": "vp-0027",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "antworten ___" },
+    "reveal": {
+      "pattern": "antworten auf + Akk.",
+      "examples": [{ "de": "Bitte antworte auf die Frage." }]
+    }
+  },
+  {
+    "id": "vp-0028",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "arbeiten ___ (Thema)" },
+    "reveal": {
+      "pattern": "arbeiten an + Dat.",
+      "examples": [{ "de": "Sie arbeitet an einem Bericht." }]
+    }
+  },
+  {
+    "id": "vp-0029",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "beginnen ___" },
+    "reveal": {
+      "pattern": "beginnen mit + Dat.",
+      "examples": [{ "de": "Wir beginnen mit der Übung." }]
+    }
+  },
+  {
+    "id": "vp-0030",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "bitten ___" },
+    "reveal": {
+      "pattern": "bitten um + Akk.",
+      "examples": [{ "de": "Ich bitte um Hilfe." }]
+    }
+  },
+  {
+    "id": "vp-0031",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "danken ___" },
+    "reveal": {
+      "pattern": "danken für + Akk.",
+      "examples": [{ "de": "Ich danke für deine Zeit." }]
+    }
+  },
+  {
+    "id": "vp-0032",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich einigen ___" },
+    "reveal": {
+      "pattern": "sich einigen auf + Akk.",
+      "examples": [{ "de": "Wir einigten uns auf einen Termin." }]
+    }
+  },
+  {
+    "id": "vp-0033",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich entscheiden ___" },
+    "reveal": {
+      "pattern": "sich entscheiden gegen + Akk.",
+      "examples": [{ "de": "Sie entschied sich gegen das Angebot." }]
+    }
+  },
+  {
+    "id": "vp-0034",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich erholen ___" },
+    "reveal": {
+      "pattern": "sich erholen von + Dat.",
+      "examples": [{ "de": "Er erholt sich von der Reise." }]
+    }
+  },
+  {
+    "id": "vp-0035",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sich verlieben ___" },
+    "reveal": {
+      "pattern": "sich verlieben in + Akk.",
+      "examples": [{ "de": "Sie verliebte sich in Berlin." }]
+    }
+  },
+  {
+    "id": "vp-0036",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "verzichten ___" },
+    "reveal": {
+      "pattern": "verzichten auf + Akk.",
+      "examples": [{ "de": "Er verzichtet auf Zucker." }]
+    }
+  },
+  {
+    "id": "vp-0037",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "bestehen ___ (Forderung)" },
+    "reveal": {
+      "pattern": "bestehen auf + Dat.",
+      "examples": [{ "de": "Sie besteht auf ihrer Meinung." }]
+    }
+  },
+  {
+    "id": "vp-0038",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sorgen ___" },
+    "reveal": {
+      "pattern": "sorgen für + Akk.",
+      "examples": [{ "de": "Er sorgt für das Essen." }]
+    }
+  },
+  {
+    "id": "vp-0039",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "schreiben ___ (Person)" },
+    "reveal": {
+      "pattern": "schreiben an + Akk.",
+      "examples": [{ "de": "Ich schreibe an meine Freundin." }]
+    }
+  },
+  {
+    "id": "vp-0040",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "schreiben ___ (Thema)" },
+    "reveal": {
+      "pattern": "schreiben über + Akk.",
+      "examples": [{ "de": "Er schreibt über Politik." }]
+    }
+  },
+  {
+    "id": "vp-0041",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sprechen ___ (Person)" },
+    "reveal": {
+      "pattern": "sprechen mit + Dat.",
+      "examples": [{ "de": "Ich spreche mit meiner Mutter." }]
+    }
+  },
+  {
+    "id": "vp-0042",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sprechen ___ (Quelle)" },
+    "reveal": {
+      "pattern": "sprechen von + Dat.",
+      "examples": [{ "de": "Er spricht von seinem Urlaub." }]
+    }
+  },
+  {
+    "id": "vp-0043",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich bemühen ___" },
+    "reveal": {
+      "pattern": "sich bemühen um + Akk.",
+      "examples": [{ "de": "Sie bemüht sich um eine Lösung." }]
+    }
+  },
+  {
+    "id": "vp-0044",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich beschweren ___" },
+    "reveal": {
+      "pattern": "sich beschweren über + Akk.",
+      "examples": [{ "de": "Er beschwert sich über den Lärm." }]
+    }
+  },
+  {
+    "id": "vp-0045",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich beteiligen ___" },
+    "reveal": {
+      "pattern": "sich beteiligen an + Dat.",
+      "examples": [{ "de": "Sie beteiligen sich an dem Projekt." }]
+    }
+  },
+  {
+    "id": "vp-0046",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich bewerben ___ (Firma)" },
+    "reveal": {
+      "pattern": "sich bewerben bei + Dat.",
+      "examples": [{ "de": "Er bewirbt sich bei einer Agentur." }]
+    }
+  },
+  {
+    "id": "vp-0047",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich fürchten ___" },
+    "reveal": {
+      "pattern": "sich fürchten vor + Dat.",
+      "examples": [{ "de": "Sie fürchtet sich vor Spinnen." }]
+    }
+  },
+  {
+    "id": "vp-0048",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sich gewöhnen ___" },
+    "reveal": {
+      "pattern": "sich gewöhnen an + Akk.",
+      "examples": [{ "de": "Er gewöhnt sich an das Klima." }]
+    }
+  },
+  {
+    "id": "vp-0049",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich handeln ___" },
+    "reveal": {
+      "pattern": "sich handeln um + Akk.",
+      "examples": [{ "de": "Es handelt sich um ein Missverständnis." }]
+    }
+  },
+  {
+    "id": "vp-0050",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sich informieren ___" },
+    "reveal": {
+      "pattern": "sich informieren über + Akk.",
+      "examples": [{ "de": "Sie informiert sich über das Angebot." }]
+    }
+  },
+  {
+    "id": "vp-0051",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sich konzentrieren ___" },
+    "reveal": {
+      "pattern": "sich konzentrieren auf + Akk.",
+      "examples": [{ "de": "Konzentriere dich auf die Aufgabe." }]
+    }
+  },
+  {
+    "id": "vp-0052",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sich sorgen ___" },
+    "reveal": {
+      "pattern": "sich sorgen um + Akk.",
+      "examples": [{ "de": "Ich sorge mich um dich." }]
+    }
+  },
+  {
+    "id": "vp-0053",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sich treffen ___" },
+    "reveal": {
+      "pattern": "sich treffen mit + Dat.",
+      "examples": [{ "de": "Wir treffen uns mit Freunden." }]
+    }
+  },
+  {
+    "id": "vp-0054",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich verabreden ___" },
+    "reveal": {
+      "pattern": "sich verabreden mit + Dat.",
+      "examples": [{ "de": "Ich verabrede mich mit ihr." }]
+    }
+  },
+  {
+    "id": "vp-0055",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich verbinden ___" },
+    "reveal": {
+      "pattern": "sich verbinden mit + Dat.",
+      "examples": [{ "de": "Der Tunnel verbindet uns mit der Stadt." }]
+    }
+  },
+  {
+    "id": "vp-0056",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sich vorbereiten ___" },
+    "reveal": {
+      "pattern": "sich vorbereiten auf + Akk.",
+      "examples": [{ "de": "Sie bereitet sich auf die Prüfung vor." }]
+    }
+  },
+  {
+    "id": "vp-0057",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "geraten ___ (Lage)" },
+    "reveal": {
+      "pattern": "geraten in + Akk.",
+      "examples": [{ "de": "Er geriet in Schwierigkeiten." }]
+    }
+  },
+  {
+    "id": "vp-0058",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "geraten ___ (Gruppe)" },
+    "reveal": {
+      "pattern": "geraten unter + Akk.",
+      "examples": [{ "de": "Er geriet unter Druck." }]
+    }
+  },
+  {
+    "id": "vp-0059",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "hoffen ___" },
+    "reveal": {
+      "pattern": "hoffen auf + Akk.",
+      "examples": [{ "de": "Wir hoffen auf gutes Wetter." }]
+    }
+  },
+  {
+    "id": "vp-0060",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "hören ___ (aufhören)" },
+    "reveal": {
+      "pattern": "hören auf + Akk.",
+      "examples": [{ "de": "Hör auf den Lehrer." }]
+    }
+  },
+  {
+    "id": "vp-0061",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "kämpfen ___ (Ziel)" },
+    "reveal": {
+      "pattern": "kämpfen für + Akk.",
+      "examples": [{ "de": "Sie kämpfen für Freiheit." }]
+    }
+  },
+  {
+    "id": "vp-0062",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "kämpfen ___ (Gegner)" },
+    "reveal": {
+      "pattern": "kämpfen gegen + Akk.",
+      "examples": [{ "de": "Er kämpft gegen die Ungerechtigkeit." }]
+    }
+  },
+  {
+    "id": "vp-0063",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "leiden ___ (Krankheit)" },
+    "reveal": {
+      "pattern": "leiden an + Dat.",
+      "examples": [{ "de": "Er leidet an Migräne." }]
+    }
+  },
+  {
+    "id": "vp-0064",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "leiden ___ (Umstände)" },
+    "reveal": {
+      "pattern": "leiden unter + Dat.",
+      "examples": [{ "de": "Sie leidet unter Stress." }]
+    }
+  },
+  {
+    "id": "vp-0065",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "passen ___ (Person)" },
+    "reveal": {
+      "pattern": "passen zu + Dat.",
+      "examples": [{ "de": "Das passt zu dir." }]
+    }
+  },
+  {
+    "id": "vp-0066",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "passen ___ (aufpassen)" },
+    "reveal": {
+      "pattern": "passen auf + Akk.",
+      "examples": [{ "de": "Pass auf die Kinder auf." }]
+    }
+  },
+  {
+    "id": "vp-0067",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "protestieren ___" },
+    "reveal": {
+      "pattern": "protestieren gegen + Akk.",
+      "examples": [{ "de": "Sie protestieren gegen die Entscheidung." }]
+    }
+  },
+  {
+    "id": "vp-0068",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "rechnen ___" },
+    "reveal": {
+      "pattern": "rechnen mit + Dat.",
+      "examples": [{ "de": "Rechne mit Verzögerungen." }]
+    }
+  },
+  {
+    "id": "vp-0069",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "reden ___ (Thema)" },
+    "reveal": {
+      "pattern": "reden über + Akk.",
+      "examples": [{ "de": "Wir reden über den Plan." }]
+    }
+  },
+  {
+    "id": "vp-0070",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "reden ___ (Quelle)" },
+    "reveal": {
+      "pattern": "reden von + Dat.",
+      "examples": [{ "de": "Er redet von seiner Kindheit." }]
+    }
+  },
+  {
+    "id": "vp-0071",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "riechen ___" },
+    "reveal": {
+      "pattern": "riechen nach + Dat.",
+      "examples": [{ "de": "Es riecht nach Kaffee." }]
+    }
+  },
+  {
+    "id": "vp-0072",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "schießen ___" },
+    "reveal": {
+      "pattern": "schießen auf + Akk.",
+      "examples": [{ "de": "Er schoss auf das Tor." }]
+    }
+  },
+  {
+    "id": "vp-0073",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "schimpfen ___" },
+    "reveal": {
+      "pattern": "schimpfen über + Akk.",
+      "examples": [{ "de": "Er schimpft über den Verkehr." }]
+    }
+  },
+  {
+    "id": "vp-0074",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "schmecken ___" },
+    "reveal": {
+      "pattern": "schmecken nach + Dat.",
+      "examples": [{ "de": "Die Suppe schmeckt nach Knoblauch." }]
+    }
+  },
+  {
+    "id": "vp-0075",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sterben ___" },
+    "reveal": {
+      "pattern": "sterben an + Dat.",
+      "examples": [{ "de": "Er starb an einer Krankheit." }]
+    }
+  },
+  {
+    "id": "vp-0076",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "streiken ___" },
+    "reveal": {
+      "pattern": "streiken für + Akk.",
+      "examples": [{ "de": "Die Arbeiter streiken für mehr Lohn." }]
+    }
+  },
+  {
+    "id": "vp-0077",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "streiten ___ (Thema)" },
+    "reveal": {
+      "pattern": "streiten über + Akk.",
+      "examples": [{ "de": "Sie streiten über Geld." }]
+    }
+  },
+  {
+    "id": "vp-0078",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "streiten ___ (Objekt)" },
+    "reveal": {
+      "pattern": "streiten um + Akk.",
+      "examples": [{ "de": "Sie streiten um das Erbe." }]
+    }
+  },
+  {
+    "id": "vp-0079",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "suchen ___" },
+    "reveal": {
+      "pattern": "suchen nach + Dat.",
+      "examples": [{ "de": "Ich suche nach meinen Schlüsseln." }]
+    }
+  },
+  {
+    "id": "vp-0080",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "telefonieren ___" },
+    "reveal": {
+      "pattern": "telefonieren mit + Dat.",
+      "examples": [{ "de": "Ich telefoniere mit meiner Mutter." }]
+    }
+  },
+  {
+    "id": "vp-0081",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "träumen ___" },
+    "reveal": {
+      "pattern": "träumen von + Dat.",
+      "examples": [{ "de": "Er träumt von Urlaub." }]
+    }
+  },
+  {
+    "id": "vp-0082",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "überzeugen ___" },
+    "reveal": {
+      "pattern": "überzeugen von + Dat.",
+      "examples": [{ "de": "Sie überzeugte ihn von der Idee." }]
+    }
+  },
+  {
+    "id": "vp-0083",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "vergleichen ___" },
+    "reveal": {
+      "pattern": "vergleichen mit + Dat.",
+      "examples": [{ "de": "Vergleiche das mit dem Beispiel." }]
+    }
+  },
+  {
+    "id": "vp-0084",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "zählen ___ (vertrauen)" },
+    "reveal": {
+      "pattern": "zählen auf + Akk.",
+      "examples": [{ "de": "Ich zähle auf dich." }]
+    }
+  },
+  {
+    "id": "vp-0085",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "zwingen ___" },
+    "reveal": {
+      "pattern": "zwingen zu + Dat.",
+      "examples": [{ "de": "Er zwang sie zu bleiben." }]
+    }
+  },
+  {
+    "id": "vp-0086",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sich bedanken ___ (Grund)" },
+    "reveal": {
+      "pattern": "sich bedanken für + Akk.",
+      "examples": [{ "de": "Ich bedanke mich für deine Hilfe." }]
+    }
+  },
+  {
+    "id": "vp-0087",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich beklagen ___" },
+    "reveal": {
+      "pattern": "sich beklagen über + Akk.",
+      "examples": [{ "de": "Er beklagt sich über den Lärm." }]
+    }
+  },
+  {
+    "id": "vp-0088",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "bestehen ___ (Wesen)" },
+    "reveal": {
+      "pattern": "bestehen in + Dat.",
+      "examples": [{ "de": "Die Aufgabe besteht in der Planung." }]
+    }
+  },
+  {
+    "id": "vp-0089",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "arbeiten ___ (Firma)" },
+    "reveal": {
+      "pattern": "arbeiten bei + Dat.",
+      "examples": [{ "de": "Er arbeitet bei einer Bank." }]
+    }
+  },
+  {
+    "id": "vp-0090",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "anrufen ___" },
+    "reveal": {
+      "pattern": "anrufen bei + Dat.",
+      "examples": [{ "de": "Ruf bei der Hotline an." }]
+    }
+  },
+  {
+    "id": "vp-0091",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "auffordern ___" },
+    "reveal": {
+      "pattern": "auffordern zu + Dat.",
+      "examples": [{ "de": "Er forderte sie zum Tanz auf." }]
+    }
+  },
+  {
+    "id": "vp-0092",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "basieren ___" },
+    "reveal": {
+      "pattern": "basieren auf + Dat.",
+      "examples": [{ "de": "Der Film basiert auf einem Buch." }]
+    }
+  },
+  {
+    "id": "vp-0093",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "beitragen ___" },
+    "reveal": {
+      "pattern": "beitragen zu + Dat.",
+      "examples": [{ "de": "Er trägt zum Erfolg bei." }]
+    }
+  },
+  {
+    "id": "vp-0094",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "beraten ___" },
+    "reveal": {
+      "pattern": "beraten über + Akk.",
+      "examples": [{ "de": "Wir beraten über den Antrag." }]
+    }
+  },
+  {
+    "id": "vp-0095",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "berichten ___ (Thema)" },
+    "reveal": {
+      "pattern": "berichten über + Akk.",
+      "examples": [{ "de": "Er berichtet über das Ereignis." }]
+    }
+  },
+  {
+    "id": "vp-0096",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "berichten ___ (Quelle)" },
+    "reveal": {
+      "pattern": "berichten von + Dat.",
+      "examples": [{ "de": "Sie berichtet von der Reise." }]
+    }
+  },
+  {
+    "id": "vp-0097",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "beruhen ___" },
+    "reveal": {
+      "pattern": "beruhen auf + Dat.",
+      "examples": [{ "de": "Das Urteil beruht auf Fakten." }]
+    }
+  },
+  {
+    "id": "vp-0098",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "bleiben ___" },
+    "reveal": {
+      "pattern": "bleiben bei + Dat.",
+      "examples": [{ "de": "Er bleibt bei seiner Meinung." }]
+    }
+  },
+  {
+    "id": "vp-0099",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "einladen ___" },
+    "reveal": {
+      "pattern": "einladen zu + Dat.",
+      "examples": [{ "de": "Ich lade dich zu meinem Geburtstag ein." }]
+    }
+  },
+  {
+    "id": "vp-0100",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "eindringen ___" },
+    "reveal": {
+      "pattern": "eindringen in + Akk.",
+      "examples": [{ "de": "Das Wasser dringt in den Keller ein." }]
+    }
+  },
+  {
+    "id": "vp-0101",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "einwirken ___" },
+    "reveal": {
+      "pattern": "einwirken auf + Akk.",
+      "examples": [{ "de": "Das Medikament wirkt auf den Körper ein." }]
+    }
+  },
+  {
+    "id": "vp-0102",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "ersetzen ___" },
+    "reveal": {
+      "pattern": "ersetzen durch + Akk.",
+      "examples": [{ "de": "Wir ersetzen Papier durch Tablets." }]
+    }
+  },
+  {
+    "id": "vp-0103",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "fliehen ___" },
+    "reveal": {
+      "pattern": "fliehen vor + Dat.",
+      "examples": [{ "de": "Er floh vor dem Sturm." }]
+    }
+  },
+  {
+    "id": "vp-0104",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "fragen ___" },
+    "reveal": {
+      "pattern": "fragen nach + Dat.",
+      "examples": [{ "de": "Frag nach dem Weg." }]
+    }
+  },
+  {
+    "id": "vp-0105",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "führen ___" },
+    "reveal": {
+      "pattern": "führen zu + Dat.",
+      "examples": [{ "de": "Das führt zu Problemen." }]
+    }
+  },
+  {
+    "id": "vp-0106",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "gelten ___" },
+    "reveal": {
+      "pattern": "gelten für + Akk.",
+      "examples": [{ "de": "Die Regel gilt für alle." }]
+    }
+  },
+  {
+    "id": "vp-0107",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "gehören ___" },
+    "reveal": {
+      "pattern": "gehören zu + Dat.",
+      "examples": [{ "de": "Er gehört zur Mannschaft." }]
+    }
+  },
+  {
+    "id": "vp-0108",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "glauben ___" },
+    "reveal": {
+      "pattern": "glauben an + Akk.",
+      "examples": [{ "de": "Glaubst du an Glück?" }]
+    }
+  },
+  {
+    "id": "vp-0109",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "gratulieren ___" },
+    "reveal": {
+      "pattern": "gratulieren zu + Dat.",
+      "examples": [{ "de": "Ich gratuliere dir zum Erfolg." }]
+    }
+  },
+  {
+    "id": "vp-0110",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "hören ___ (gehorchen)" },
+    "reveal": {
+      "pattern": "hören auf + Akk.",
+      "examples": [{ "de": "Kinder hören auf ihre Eltern." }]
+    }
+  },
+  {
+    "id": "vp-0111",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich austauschen ___" },
+    "reveal": {
+      "pattern": "sich austauschen über + Akk.",
+      "examples": [{ "de": "Wir tauschen uns über das Projekt aus." }]
+    }
+  },
+  {
+    "id": "vp-0112",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich verabschieden ___" },
+    "reveal": {
+      "pattern": "sich verabschieden von + Dat.",
+      "examples": [{ "de": "Ich verabschiede mich von euch." }]
+    }
+  },
+  {
+    "id": "vp-0113",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich einigen ___ (Person)" },
+    "reveal": {
+      "pattern": "sich einigen mit + Dat.",
+      "examples": [{ "de": "Wir einigten uns mit dem Kunden." }]
+    }
+  },
+  {
+    "id": "vp-0114",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich einmischen ___" },
+    "reveal": {
+      "pattern": "sich einmischen in + Akk.",
+      "examples": [{ "de": "Misch dich nicht in die Sache ein." }]
+    }
+  },
+  {
+    "id": "vp-0115",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich entscheiden ___ (Alternative)" },
+    "reveal": {
+      "pattern": "sich entscheiden zwischen + Dat.",
+      "examples": [{ "de": "Er entscheidet zwischen zwei Optionen." }]
+    }
+  },
+  {
+    "id": "vp-0116",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich einlassen ___" },
+    "reveal": {
+      "pattern": "sich einlassen auf + Akk.",
+      "examples": [{ "de": "Er ließ sich auf den Deal ein." }]
+    }
+  },
+  {
+    "id": "vp-0117",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich halten ___ (Regel)" },
+    "reveal": {
+      "pattern": "sich halten an + Akk.",
+      "examples": [{ "de": "Halte dich an die Regeln." }]
+    }
+  },
+  {
+    "id": "vp-0118",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich orientieren ___" },
+    "reveal": {
+      "pattern": "sich orientieren an + Dat.",
+      "examples": [{ "de": "Er orientiert sich an Vorbildern." }]
+    }
+  },
+  {
+    "id": "vp-0119",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich stützen ___" },
+    "reveal": {
+      "pattern": "sich stützen auf + Akk.",
+      "examples": [{ "de": "Er stützt sich auf Daten." }]
+    }
+  },
+  {
+    "id": "vp-0120",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich verlassen ___ (Hilfe)" },
+    "reveal": {
+      "pattern": "sich verlassen auf + Akk.",
+      "examples": [{ "de": "Du kannst dich auf mich verlassen." }]
+    }
+  },
+  {
+    "id": "vp-0121",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich wenden ___ (Person)" },
+    "reveal": {
+      "pattern": "sich wenden an + Akk.",
+      "examples": [{ "de": "Wenden Sie sich an den Support." }]
+    }
+  },
+  {
+    "id": "vp-0122",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "streben ___" },
+    "reveal": {
+      "pattern": "streben nach + Dat.",
+      "examples": [{ "de": "Er strebt nach Perfektion." }]
+    }
+  },
+  {
+    "id": "vp-0123",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich schämen ___" },
+    "reveal": {
+      "pattern": "sich schämen für + Akk.",
+      "examples": [{ "de": "Er schämt sich für sein Verhalten." }]
+    }
+  },
+  {
+    "id": "vp-0124",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich konzentrieren ___ (Person)" },
+    "reveal": {
+      "pattern": "sich konzentrieren auf + Akk.",
+      "examples": [{ "de": "Sie konzentriert sich auf ihn." }]
+    }
+  },
+  {
+    "id": "vp-0125",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sich erinnern ___ (Person)" },
+    "reveal": {
+      "pattern": "sich erinnern an + Akk.",
+      "examples": [{ "de": "Er erinnert sich an seine Lehrerin." }]
+    }
+  },
+  {
+    "id": "noun-0126",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Note" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Noten",
+      "examples": [{ "de": "Ich habe eine gute Note bekommen." }]
+    }
+  },
+  {
+    "id": "noun-0127",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Zeitplan" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Zeitpläne",
+      "examples": [{ "de": "Der Zeitplan ist eng." }]
+    }
+  },
+  {
+    "id": "noun-0128",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Übersicht" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Übersichten",
+      "examples": [{ "de": "Hier ist eine Übersicht der Zahlen." }]
+    }
+  },
+  {
+    "id": "noun-0129",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Internet" },
+    "reveal": {
+      "articleNom": "das",
+      "plural": "—",
+      "examples": [{ "de": "Das Internet funktioniert wieder." }]
+    }
+  },
+  {
+    "id": "noun-0130",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Mitteilung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Mitteilungen",
+      "examples": [{ "de": "Sie schickte eine kurze Mitteilung." }]
+    }
+  },
+  {
+    "id": "noun-0131",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Vortrag" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Vorträge",
+      "examples": [{ "de": "Der Vortrag war spannend." }]
+    }
+  },
+  {
+    "id": "noun-0132",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Terminplan" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Terminpläne",
+      "examples": [{ "de": "Der Terminplan ist voll." }]
+    }
+  },
+  {
+    "id": "noun-0133",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Überweisung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Überweisungen",
+      "examples": [{ "de": "Die Überweisung ist raus." }]
+    }
+  },
+  {
+    "id": "noun-0134",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Ablehnung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Ablehnungen",
+      "examples": [{ "de": "Wir erhielten eine Ablehnung." }]
+    }
+  },
+  {
+    "id": "noun-0135",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Bestätigung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Bestätigungen",
+      "examples": [{ "de": "Die Bestätigung kam per E-Mail." }]
+    }
+  },
+  {
+    "id": "noun-0136",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Programm" },
+    "reveal": {
+      "articleNom": "das",
+      "plural": "Programme",
+      "examples": [{ "de": "Das Programm läuft morgen." }]
+    }
+  },
+  {
+    "id": "noun-0137",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Reihe" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Reihen",
+      "examples": [{ "de": "Die Reihe startet im Herbst." }]
+    }
+  },
+  {
+    "id": "noun-0138",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Ergänzung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Ergänzungen",
+      "examples": [{ "de": "Wir fügen eine Ergänzung hinzu." }]
+    }
+  },
+  {
+    "id": "noun-0139",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Aufwand" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Aufwände",
+      "examples": [{ "de": "Der Aufwand lohnt sich." }]
+    }
+  },
+  {
+    "id": "noun-0140",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Einschränkung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Einschränkungen",
+      "examples": [{ "de": "Es gibt eine zeitliche Einschränkung." }]
+    }
+  },
+  {
+    "id": "noun-0141",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Überraschung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Überraschungen",
+      "examples": [{ "de": "Die Überraschung war gelungen." }]
+    }
+  },
+  {
+    "id": "noun-0142",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Versicherung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Versicherungen",
+      "examples": [{ "de": "Die Versicherung deckt den Schaden." }]
+    }
+  },
+  {
+    "id": "noun-0143",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Zulassung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Zulassungen",
+      "examples": [{ "de": "Wir warten auf die Zulassung." }]
+    }
+  },
+  {
+    "id": "noun-0144",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Verletzung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Verletzungen",
+      "examples": [{ "de": "Die Verletzung ist leicht." }]
+    }
+  },
+  {
+    "id": "noun-0145",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Plan" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Pläne",
+      "examples": [{ "de": "Der Plan ist klar." }]
+    }
+  },
+  {
+    "id": "noun-0146",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Vereinfachung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Vereinfachungen",
+      "examples": [{ "de": "Die Vereinfachung spart Zeit." }]
+    }
+  },
+  {
+    "id": "noun-0147",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Einflussnahme" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Einflussnahmen",
+      "examples": [{ "de": "Externe Einflussnahme ist untersagt." }]
+    }
+  },
+  {
+    "id": "noun-0148",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Verpflichtung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Verpflichtungen",
+      "examples": [{ "de": "Er hat viele Verpflichtungen." }]
+    }
+  },
+  {
+    "id": "noun-0149",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Zusammenfassung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Zusammenfassungen",
+      "examples": [{ "de": "Die Zusammenfassung liegt vor." }]
+    }
+  },
+  {
+    "id": "noun-0150",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Begleitung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Begleitungen",
+      "examples": [{ "de": "Kinder brauchen Begleitung." }]
+    }
+  },
+  {
+    "id": "noun-0151",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Abhängigkeit" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Abhängigkeiten",
+      "examples": [{ "de": "Die Abhängigkeit ist groß." }]
+    }
+  },
+  {
+    "id": "noun-0152",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Zweifel" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Zweifel",
+      "examples": [{ "de": "Es gibt keinen Zweifel." }]
+    }
+  },
+  {
+    "id": "noun-0153",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Vertraulichkeit" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Vertraulichkeiten",
+      "examples": [{ "de": "Vertraulichkeit ist vereinbart." }]
+    }
+  },
+  {
+    "id": "noun-0154",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Störung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Störungen",
+      "examples": [{ "de": "Es gab eine kurze Störung." }]
+    }
+  },
+  {
+    "id": "noun-0155",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Auswertung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Auswertungen",
+      "examples": [{ "de": "Die Auswertung folgt morgen." }]
+    }
+  },
+  {
+    "id": "noun-0156",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Folge" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Folgen",
+      "examples": [{ "de": "Welche Folgen hat das?" }]
+    }
+  },
+  {
+    "id": "noun-0157",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Verordnung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Verordnungen",
+      "examples": [{ "de": "Die Verordnung tritt morgen in Kraft." }]
+    }
+  },
+  {
+    "id": "noun-0158",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Überzeugung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Überzeugungen",
+      "examples": [{ "de": "Er sprach mit Überzeugung." }]
+    }
+  },
+  {
+    "id": "noun-0159",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Erlaubnis" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Erlaubnisse",
+      "examples": [{ "de": "Sie haben die Erlaubnis." }]
+    }
+  },
+  {
+    "id": "noun-0160",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Erhebung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Erhebungen",
+      "examples": [{ "de": "Die Erhebung dauert zwei Wochen." }]
+    }
+  },
+  {
+    "id": "noun-0161",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Wirkung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Wirkungen",
+      "examples": [{ "de": "Die Wirkung ist spürbar." }]
+    }
+  },
+  {
+    "id": "noun-0162",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Einhaltung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Einhaltungen",
+      "examples": [{ "de": "Die Einhaltung ist Pflicht." }]
+    }
+  },
+  {
+    "id": "noun-0163",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Meldung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Meldungen",
+      "examples": [{ "de": "Es gab eine Meldung im Radio." }]
+    }
+  },
+  {
+    "id": "noun-0164",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Drohung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Drohungen",
+      "examples": [{ "de": "Die Drohung war ernst." }]
+    }
+  },
+  {
+    "id": "noun-0165",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Berechnung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Berechnungen",
+      "examples": [{ "de": "Die Berechnung stimmt." }]
+    }
+  },
+  {
+    "id": "noun-0166",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Spannung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Spannungen",
+      "examples": [{ "de": "Die Spannung steigt." }]
+    }
+  },
+  {
+    "id": "noun-0167",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Erwartung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Erwartungen",
+      "examples": [{ "de": "Die Erwartungen sind hoch." }]
+    }
+  },
+  {
+    "id": "noun-0168",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Sichtung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Sichtungen",
+      "examples": [{ "de": "Es gab eine Sichtung von Fehlern." }]
+    }
+  },
+  {
+    "id": "noun-0169",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Anpassbarkeit" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Anpassbarkeiten",
+      "examples": [{ "de": "Die Anpassbarkeit ist hoch." }]
+    }
+  },
+  {
+    "id": "noun-0170",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Lösung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Lösungen",
+      "examples": [{ "de": "Wir haben eine Lösung gefunden." }]
+    }
+  },
+  {
+    "id": "noun-0171",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Empfindung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Empfindungen",
+      "examples": [{ "de": "Die Empfindung war angenehm." }]
+    }
+  },
+  {
+    "id": "noun-0172",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Einschätzung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Einschätzungen",
+      "examples": [{ "de": "Die Einschätzung war korrekt." }]
+    }
+  },
+  {
+    "id": "noun-0173",
+    "type": "noun",
+    "level": "hard",
+    "front": { "lemma": "Aufrechterhaltung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Aufrechterhaltungen",
+      "examples": [{ "de": "Die Aufrechterhaltung kostet Energie." }]
+    }
+  },
+  {
+    "id": "noun-0174",
+    "type": "noun",
+    "level": "easy",
+    "front": { "lemma": "Ratschlag" },
+    "reveal": {
+      "articleNom": "der",
+      "plural": "Ratschläge",
+      "examples": [{ "de": "Danke für den Ratschlag." }]
+    }
+  },
+  {
+    "id": "noun-0175",
+    "type": "noun",
+    "level": "medium",
+    "front": { "lemma": "Übung" },
+    "reveal": {
+      "articleNom": "die",
+      "plural": "Übungen",
+      "examples": [{ "de": "Die Übung hilft beim Lernen." }]
+    }
+  },
+  {
+    "id": "vp-0126",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich bedanken ___ (Person)" },
+    "reveal": {
+      "pattern": "sich bedanken bei + Dat.",
+      "examples": [{ "de": "Ich bedanke mich bei meinen Eltern." }]
+    }
+  },
+  {
+    "id": "vp-0127",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sich beschweren ___ (Person)" },
+    "reveal": {
+      "pattern": "sich beschweren bei + Dat.",
+      "examples": [{ "de": "Er beschwert sich bei der Chefin." }]
+    }
+  },
+  {
+    "id": "vp-0128",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "bestehen ___ (Termin)" },
+    "reveal": {
+      "pattern": "bestehen bis + Akk.",
+      "examples": [{ "de": "Das Angebot besteht bis Freitag." }]
+    }
+  },
+  {
+    "id": "vp-0129",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "stammen ___" },
+    "reveal": {
+      "pattern": "stammen aus + Dat.",
+      "examples": [{ "de": "Das Zitat stammt aus dem Buch." }]
+    }
+  },
+  {
+    "id": "vp-0130",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich halten ___ (Person)" },
+    "reveal": {
+      "pattern": "sich halten an + Akk.",
+      "examples": [{ "de": "Halte dich an sie." }]
+    }
+  },
+  {
+    "id": "vp-0131",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sich bedanken ___ (Sache)" },
+    "reveal": {
+      "pattern": "sich bedanken für + Akk.",
+      "examples": [{ "de": "Ich bedanke mich für das Geschenk." }]
+    }
+  },
+  {
+    "id": "vp-0132",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich eignen ___" },
+    "reveal": {
+      "pattern": "sich eignen für + Akk.",
+      "examples": [{ "de": "Der Raum eignet sich für Workshops." }]
+    }
+  },
+  {
+    "id": "vp-0133",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich hüten ___" },
+    "reveal": {
+      "pattern": "sich hüten vor + Dat.",
+      "examples": [{ "de": "Hüte dich vor falschen Versprechen." }]
+    }
+  },
+  {
+    "id": "vp-0134",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich einsetzen ___" },
+    "reveal": {
+      "pattern": "sich einsetzen für + Akk.",
+      "examples": [{ "de": "Sie setzt sich für Bildung ein." }]
+    }
+  },
+  {
+    "id": "vp-0135",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich einsetzen ___ (Ort)" },
+    "reveal": {
+      "pattern": "sich einsetzen in + Dat.",
+      "examples": [{ "de": "Er setzt sich in der Gemeinde ein." }]
+    }
+  },
+  {
+    "id": "vp-0136",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich abfinden ___" },
+    "reveal": {
+      "pattern": "sich abfinden mit + Dat.",
+      "examples": [{ "de": "Er findet sich mit der Situation ab." }]
+    }
+  },
+  {
+    "id": "vp-0137",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich distanzieren ___" },
+    "reveal": {
+      "pattern": "sich distanzieren von + Dat.",
+      "examples": [{ "de": "Sie distanziert sich von den Aussagen." }]
+    }
+  },
+  {
+    "id": "vp-0138",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich einprägen ___" },
+    "reveal": {
+      "pattern": "sich einprägen in + Akk.",
+      "examples": [{ "de": "Das Bild prägte sich in sein Gedächtnis ein." }]
+    }
+  },
+  {
+    "id": "vp-0139",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich fügen ___" },
+    "reveal": {
+      "pattern": "sich fügen in + Akk.",
+      "examples": [{ "de": "Er fügt sich in das Urteil." }]
+    }
+  },
+  {
+    "id": "vp-0140",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich niederlassen ___" },
+    "reveal": {
+      "pattern": "sich niederlassen in + Dat.",
+      "examples": [{ "de": "Sie ließ sich in Köln nieder." }]
+    }
+  },
+  {
+    "id": "vp-0141",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich qualifizieren ___" },
+    "reveal": {
+      "pattern": "sich qualifizieren für + Akk.",
+      "examples": [{ "de": "Er qualifiziert sich für das Finale." }]
+    }
+  },
+  {
+    "id": "vp-0142",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich rächen ___" },
+    "reveal": {
+      "pattern": "sich rächen an + Dat.",
+      "examples": [{ "de": "Er rächt sich an seinem Rivalen." }]
+    }
+  },
+  {
+    "id": "vp-0143",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich rächen ___ (Grund)" },
+    "reveal": {
+      "pattern": "sich rächen für + Akk.",
+      "examples": [{ "de": "Sie rächt sich für die Lüge." }]
+    }
+  },
+  {
+    "id": "vp-0144",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich scheuen ___" },
+    "reveal": {
+      "pattern": "sich scheuen vor + Dat.",
+      "examples": [{ "de": "Er scheut vor Veränderungen." }]
+    }
+  },
+  {
+    "id": "vp-0145",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich verteidigen ___ (Angriff)" },
+    "reveal": {
+      "pattern": "sich verteidigen gegen + Akk.",
+      "examples": [{ "de": "Sie verteidigt sich gegen die Kritik." }]
+    }
+  },
+  {
+    "id": "vp-0146",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich wehren ___" },
+    "reveal": {
+      "pattern": "sich wehren gegen + Akk.",
+      "examples": [{ "de": "Er wehrt sich gegen die Vorwürfe." }]
+    }
+  },
+  {
+    "id": "vp-0147",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sich wundern ___ (Person)" },
+    "reveal": {
+      "pattern": "sich wundern über + Akk.",
+      "examples": [{ "de": "Ich wundere mich über ihn." }]
+    }
+  },
+  {
+    "id": "vp-0148",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich zusammenschließen ___" },
+    "reveal": {
+      "pattern": "sich zusammenschließen zu + Dat.",
+      "examples": [{ "de": "Sie schlossen sich zu einem Team zusammen." }]
+    }
+  },
+  {
+    "id": "vp-0149",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "teilhaben ___" },
+    "reveal": {
+      "pattern": "teilhaben an + Dat.",
+      "examples": [{ "de": "Er will an dem Gewinn teilhaben." }]
+    }
+  },
+  {
+    "id": "vp-0150",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "übereinstimmen ___" },
+    "reveal": {
+      "pattern": "übereinstimmen mit + Dat.",
+      "examples": [{ "de": "Die Aussagen stimmen mit den Daten überein." }]
+    }
+  },
+  {
+    "id": "vp-0151",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "urteilen ___" },
+    "reveal": {
+      "pattern": "urteilen nach + Dat.",
+      "examples": [{ "de": "Man sollte nicht nach dem Äußeren urteilen." }]
+    }
+  },
+  {
+    "id": "vp-0152",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "verhandeln ___" },
+    "reveal": {
+      "pattern": "verhandeln über + Akk.",
+      "examples": [{ "de": "Wir verhandeln über den Preis." }]
+    }
+  },
+  {
+    "id": "vp-0153",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "verhandeln ___ (Partner)" },
+    "reveal": {
+      "pattern": "verhandeln mit + Dat.",
+      "examples": [{ "de": "Sie verhandeln mit dem Anbieter." }]
+    }
+  },
+  {
+    "id": "vp-0154",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "verweisen ___" },
+    "reveal": {
+      "pattern": "verweisen auf + Akk.",
+      "examples": [{ "de": "Sie verweist auf die Richtlinien." }]
+    }
+  },
+  {
+    "id": "vp-0155",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "verzichten ___ (Sache)" },
+    "reveal": {
+      "pattern": "verzichten auf + Akk.",
+      "examples": [{ "de": "Er verzichtet auf das Dessert." }]
+    }
+  },
+  {
+    "id": "vp-0156",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "warnen ___ (Person)" },
+    "reveal": {
+      "pattern": "warnen vor + Dat.",
+      "examples": [{ "de": "Sie warnen vor der Gefahr." }]
+    }
+  },
+  {
+    "id": "vp-0157",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "wetteifern ___" },
+    "reveal": {
+      "pattern": "wetteifern um + Akk.",
+      "examples": [{ "de": "Teams wetteifern um den Titel." }]
+    }
+  },
+  {
+    "id": "vp-0158",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "zögern ___" },
+    "reveal": {
+      "pattern": "zögern mit + Dat.",
+      "examples": [{ "de": "Er zögert mit der Antwort." }]
+    }
+  },
+  {
+    "id": "vp-0159",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "zögern ___ (Handlung)" },
+    "reveal": {
+      "pattern": "zögern zu + Dat.",
+      "examples": [{ "de": "Zögere nicht zu fragen." }]
+    }
+  },
+  {
+    "id": "vp-0160",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich austauschen ___ (Person)" },
+    "reveal": {
+      "pattern": "sich austauschen mit + Dat.",
+      "examples": [{ "de": "Er tauscht sich mit Kolleginnen aus." }]
+    }
+  },
+  {
+    "id": "vp-0161",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich berufen ___" },
+    "reveal": {
+      "pattern": "sich berufen auf + Akk.",
+      "examples": [{ "de": "Sie berufen sich auf den Vertrag." }]
+    }
+  },
+  {
+    "id": "vp-0162",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich beziehen ___ (Quelle)" },
+    "reveal": {
+      "pattern": "sich beziehen auf + Akk.",
+      "examples": [{ "de": "Ich beziehe mich auf den Bericht." }]
+    }
+  },
+  {
+    "id": "vp-0163",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich einigen ___ (Thema)" },
+    "reveal": {
+      "pattern": "sich einigen über + Akk.",
+      "examples": [{ "de": "Wir einigten uns über die Termine." }]
+    }
+  },
+  {
+    "id": "vp-0164",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich erkundigen ___ (Zeit)" },
+    "reveal": {
+      "pattern": "sich erkundigen nach + Dat.",
+      "examples": [{ "de": "Er erkundigt sich nach der Uhrzeit." }]
+    }
+  },
+  {
+    "id": "vp-0165",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich fügen ___ (Regel)" },
+    "reveal": {
+      "pattern": "sich fügen in + Akk.",
+      "examples": [{ "de": "Er fügte sich in die Regel." }]
+    }
+  },
+  {
+    "id": "vp-0166",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich richten ___" },
+    "reveal": {
+      "pattern": "sich richten nach + Dat.",
+      "examples": [{ "de": "Wir richten uns nach deinem Plan." }]
+    }
+  },
+  {
+    "id": "vp-0167",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sich verlassen ___ (Person)" },
+    "reveal": {
+      "pattern": "sich verlassen auf + Akk.",
+      "examples": [{ "de": "Ich verlasse mich auf dich." }]
+    }
+  },
+  {
+    "id": "vp-0168",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich verschließen ___" },
+    "reveal": {
+      "pattern": "sich verschließen gegenüber + Dat.",
+      "examples": [{ "de": "Er verschließt sich gegenüber Kritik." }]
+    }
+  },
+  {
+    "id": "vp-0169",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich wenden ___ (Thema)" },
+    "reveal": {
+      "pattern": "sich wenden an + Akk.",
+      "examples": [{ "de": "Wenden Sie sich an den Support." }]
+    }
+  },
+  {
+    "id": "vp-0170",
+    "type": "verb_prep",
+    "level": "easy",
+    "front": { "pattern": "sich wundern ___ (Ding)" },
+    "reveal": {
+      "pattern": "sich wundern über + Akk.",
+      "examples": [{ "de": "Ich wundere mich über das Ergebnis." }]
+    }
+  },
+  {
+    "id": "vp-0171",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "teilnehmen ___ (Veranstaltung)" },
+    "reveal": {
+      "pattern": "teilnehmen an + Dat.",
+      "examples": [{ "de": "Er nimmt an der Konferenz teil." }]
+    }
+  },
+  {
+    "id": "vp-0172",
+    "type": "verb_prep",
+    "level": "hard",
+    "front": { "pattern": "sich auseinandersetzen ___" },
+    "reveal": {
+      "pattern": "sich auseinandersetzen mit + Dat.",
+      "examples": [{ "de": "Er setzt sich mit dem Thema auseinander." }]
+    }
+  },
+  {
+    "id": "vp-0173",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich beschäftigen ___ (Projekt)" },
+    "reveal": {
+      "pattern": "sich beschäftigen mit + Dat.",
+      "examples": [{ "de": "Sie beschäftigt sich mit dem Projekt." }]
+    }
+  },
+  {
+    "id": "vp-0174",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich verpflichten ___" },
+    "reveal": {
+      "pattern": "sich verpflichten zu + Dat.",
+      "examples": [{ "de": "Er verpflichtet sich zu regelmäßigen Berichten." }]
+    }
+  },
+  {
+    "id": "vp-0175",
+    "type": "verb_prep",
+    "level": "medium",
+    "front": { "pattern": "sich einigen ___ (Personen)" },
+    "reveal": {
+      "pattern": "sich einigen mit + Dat.",
+      "examples": [{ "de": "Sie einigten sich mit den Partnern." }]
     }
   }
 ]
