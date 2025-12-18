@@ -207,6 +207,12 @@ button {
   color: #0f172a;
 }
 
+.top-actions {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
 .link-button {
   background: transparent;
   border: none;
