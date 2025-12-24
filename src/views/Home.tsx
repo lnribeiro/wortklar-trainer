@@ -56,7 +56,7 @@ export function Home({
     <div className="card-container grid">
       <div className="top-nav">
         <div>
-          <h1 className="app-title">wortklar</h1>
+          <h1 className="app-title">Wortklar</h1>
           <p className="meta">Train nouns and verb + preposition frames. Progress stays in your browser.</p>
         </div>
         <div className="top-actions">
