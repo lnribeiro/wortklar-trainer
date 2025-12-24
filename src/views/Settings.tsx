@@ -2,6 +2,18 @@ import { useEffect, useMemo, useState } from 'react';
 import { bulkGetProgress } from '../lib/db';
 import { Card } from '../types/cards';
 
+function formatCardLabel(card: Card): string {
+  if (card.type === 'noun') {
+    return `${card.reveal.articleNom} ${card.front.lemma}`;
+  }
+  const revealPattern = card.reveal.pattern?.trim();
+  if (revealPattern) {
+    return revealPattern;
+  }
+  const cleanedPattern = card.front.pattern?.replace(/\s*_{3,}/g, '').trim();
+  return cleanedPattern || card.id;
+}
+
 interface SettingsProps {
   onBack: () => void;
   onReset: () => Promise<void>;
@@ -52,10 +64,7 @@ export function Settings({ onBack, onReset, resetInProgress, cards }: SettingsPr
           const total = (rec.g ?? 0) + (rec.r ?? 0);
           const ratio = (rec.r + 1) / (rec.g + 1);
           const card = cards.find((c) => c.id === id);
-          const label =
-            card?.type === 'noun'
-              ? `${card.reveal.articleNom} ${card.front.lemma}`
-              : card?.front.pattern ?? id;
+          const label = card ? formatCardLabel(card) : id;
           return { id, ratio, total, label };
         })
         .filter((item) => item.total > 0)
@@ -66,10 +75,7 @@ export function Settings({ onBack, onReset, resetInProgress, cards }: SettingsPr
         .map(([id, rec]) => {
           const total = (rec.g ?? 0) + (rec.r ?? 0);
           const card = cards.find((c) => c.id === id);
-          const label =
-            card?.type === 'noun'
-              ? `${card.reveal.articleNom} ${card.front.lemma}`
-              : card?.front.pattern ?? id;
+          const label = card ? formatCardLabel(card) : id;
           return { id, g: rec.g ?? 0, r: rec.r ?? 0, total, label };
         })
         .filter((item) => item.total > 0)
@@ -114,7 +120,7 @@ export function Settings({ onBack, onReset, resetInProgress, cards }: SettingsPr
         <p className="meta">{loading ? 'Loading…' : statLine}</p>
         <div className="examples" style={{ marginTop: 8 }}>
           <p className="meta" style={{ marginBottom: 8 }}>
-            Hard words (highest red/green ratio):
+            Hard expressions (highest red/green ratio):
           </p>
           {hardCards.length === 0 && <p className="meta">No hard words yet.</p>}
           {hardCards.map((item) => (
